@@ -5,6 +5,11 @@ Written by: 	Okler Themes - (http://www.okler.net)
 Theme Version:	9.5.0
 */
 /* Accordion */
+
+p{
+	text-align: justify !important;
+}
+
 .accordion .card {
 	margin-top: 5px;
 }

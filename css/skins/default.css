@@ -2897,7 +2897,7 @@ html .toggle-primary .toggle.active > .toggle-title {
 
 html .toggle-primary.toggle-simple .toggle > label:after,
 html .toggle-primary.toggle-simple .toggle > .toggle-title:after {
-	background-color: #0088CC;
+	background-color: #650e0d;
 }
 
 html .toggle-primary.toggle-minimal .toggle.active > label,
@@ -3845,8 +3845,8 @@ html[dir="rtl"] .tabs.tabs-vertical.tabs-right .nav-tabs li .nav-link.active:foc
 .list.list-icons li a:first-child > [class*="fa-"]:first-child,
 .list.list-icons li > .icons:first-child,
 .list.list-icons li a:first-child > .icons:first-child {
-	color: #0088CC;
-	border-color: #0088CC;
+	color: #000;
+	border-color: #000;
 }
 
 .list.list-icons.list-icons-style-3 li > [class*="fa-"]:first-child,
