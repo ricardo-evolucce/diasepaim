@@ -19591,6 +19591,12 @@ section.section-custom-map section.section {
 	.home-intro-compact .get-started {
 		padding-left: 20px;
 	}
+
+	.parallax-disabled .parallax-background {
+
+	background-position-x: 74% !important;
+}
+
 }
 
 @media (max-width: 767px) {
