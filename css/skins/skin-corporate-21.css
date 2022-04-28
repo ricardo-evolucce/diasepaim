@@ -16,11 +16,11 @@
 }
 
 a {
-	color: #0169fe;
+	color:#630d0e;
 }
 
 a:hover {
-	color: #1a78fe;
+	color: #8e2e30;
 }
 
 a:focus {
@@ -3845,8 +3845,8 @@ html[dir="rtl"] .tabs.tabs-vertical.tabs-right .nav-tabs li .nav-link.active:foc
 .list.list-icons li a:first-child > [class*="fa-"]:first-child,
 .list.list-icons li > .icons:first-child,
 .list.list-icons li a:first-child > .icons:first-child {
-	color: #0169fe;
-	border-color: #0169fe;
+	color: #630d0e;;
+	border-color: #630d0e;;
 }
 
 .list.list-icons.list-icons-style-3 li > [class*="fa-"]:first-child,
