@@ -91,7 +91,7 @@
                                                     </li>
 
                                                     <li class="dropdown">
-                                                        <a class="dropdown-item dropdown-toggle" href="#">
+                                                        <a class="dropdown-item dropdown-toggle" href="https://blog.diasepaimadvogados.com.br">
                                                             Blog
                                                         </a>
                                                         <ul class="dropdown-menu">
