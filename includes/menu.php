@@ -8,10 +8,10 @@
                             <nav class="header-nav-top">
                                 <ul class="nav nav-pills">
                                     <li class="nav-item nav-item-borders py-2 d-none d-sm-inline-flex">
-                                        <span class="ps-0"><i class="far fa-dot-circle text-4 text-color-primary" style="top: 1px;"></i>Av. Getúlio Vargas, nº 1151, sala 1016, bairro Menino Deus - Porto Alegre / RS</span>
+                                        <a href="https://g.page/diasepaimadvogados?share"><span class="ps-0"><i class="far fa-dot-circle text-4 text-color-primary" style="top: 1px;"></i>Av. Getúlio Vargas, nº 1151, sala 1016, bairro Menino Deus - Porto Alegre / RS</span></a>
                                     </li>
                                     <li class="nav-item nav-item-borders py-2">
-                                        <a href="#" class="text-color-hover-light"><i class="fab fa-whatsapp text-4 text-color-primary" style="top: 0;"></i>(51) 3516-4188</a>
+                                        <a href="tel:5135164188" class="text-color-hover-light"><i class="fab fa-whatsapp text-4 text-color-primary" style="top: 0;"></i>(51) 3516-4188</a>
                                     </li>
                                     <li class="nav-item nav-item-borders py-2 d-none d-md-inline-flex">
                                         <a href="mailto:contato@diasepaimadvogados.com.br" class="text-color-hover-light"><i class="far fa-envelope text-4 text-color-primary" style="top: 1px;"></i>contato@diasepaimadvogados.com.br</a>
@@ -25,6 +25,8 @@
                             <nav class="header-nav-top">
                                 <ul class="footer-social-icons social-icons social-icons-clean social-icons-big social-icons-opacity-light social-icons-icon-light mt-0 mt-lg-3">
                                     <li class="social-icons-facebook"><a href="https://www.instagram.com/diasepaimadvogados/" target="_blank" title="Instagram"><i class="fab fa-instagram text-2"></i></a></li>
+
+                                    <li class="social-icons-facebook"><a href="https://pt-br.facebook.com/diasepaimadvogadosassociados/" target="_blank" title="Facebook"><i class="fab fa-facebook text-2"></i></a></li>
                                             <!--<li class="social-icons-twitter"><a href="http://www.twitter.com/" target="_blank" title="Twitter"><i class="fab fa-twitter text-2"></i></a></li>
                                                 <li class="social-icons-linkedin"><a href="http://www.linkedin.com/" target="_blank" title="Linkedin"><i class="fab fa-linkedin-in text-2"></i></a></li>-->
                                             </ul>
@@ -65,7 +67,7 @@
                                                         <a class="dropdown-item" href="quem-somos.php">Quem somos</a>
                                                     </li>
                                                     <li class="dropdown">
-                                                        <a class="dropdown-item dropdown-toggle" href="#">
+                                                        <a class="dropdown-item dropdown-toggle" href="areas-de-atuacao.php">
                                                             Áreas de Atuação
                                                         </a>
                                                         <ul class="dropdown-menu">
