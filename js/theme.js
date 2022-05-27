@@ -599,7 +599,8 @@ window.theme.fn = {
 		});
 
 		$(window).on("pageshow", function(e){
-			if( e.persisted ) {
+			if( e.persisted || e.originalEvent.persisted) {
+
 				if( $('html').hasClass('safari') ) {
 					window.location.reload();
 				}
