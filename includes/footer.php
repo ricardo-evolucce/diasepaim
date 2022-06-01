@@ -25,8 +25,8 @@
                     </div>
                     <div class="col-md-4 col-lg-3 mb-4 mb-lg-0 text-center text-lg-end">
                         <h5 class="text-3 text-color-dark mb-0 pb-1 opacity-6">ENTRE EM CONTATO</h5>
-                        <a href="tel:+1234567890" class="text-8 text-color-dark text-color-hover-primary text-decoration-none font-weight-bold pb-1 mb-0">(51) 3516-4188</a>
-                        <p class="m-0 text-center"><a href="mailto:mail@example.com" class="text-color-dark text-color-hover-primary">
+                        <a href="tel:5135164188" class="text-8 text-color-dark text-color-hover-primary text-decoration-none font-weight-bold pb-1 mb-0">(51) 3516-4188</a>
+                        <p class="m-0 text-center"><a href="contato@diasepaimadvogados.com.br" class="text-color-dark text-color-hover-primary">
                         contato@diasepaimadvogados.com.br</a></p>
                     </div>
                 </div>
