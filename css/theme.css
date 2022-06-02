@@ -9,9 +9,14 @@ Theme Version:	9.5.0
     }
 }
 
+ol, ul {
+    padding-left: 0rem !important;
+}
+
 @font-face {
     font-family: 'Poppins';
     src: url('../fonts/Poppins-Regular.woff') format('woff'), url('../fonts/Poppins-Regular.woff2') format('woff2');
+    font-display: swap;
 }
 
 html {
