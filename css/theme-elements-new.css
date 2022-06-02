@@ -753,6 +753,8 @@ p.lead {
 
 /* Links */
 a, a:hover, a:focus {
-	color: #CCC;
+	color: #630d0e;
+    font-size: 13px;
+    font-weight: bold;
 }
 }
