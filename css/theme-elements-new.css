@@ -3212,6 +3212,7 @@ h4 {
 	font-weight: 600;
 	line-height: 27px;
 	margin: 0 0 14px 0;
+	display: inline-block;
 }
 
 h5 {
