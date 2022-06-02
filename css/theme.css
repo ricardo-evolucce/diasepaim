@@ -9,6 +9,10 @@ Theme Version:	9.5.0
     }
 }
 
+ li{
+list-style:none;
+}
+
 ol, ul {
     padding-left: 0rem !important;
 }
