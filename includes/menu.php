@@ -67,7 +67,7 @@
                                                         <a class="dropdown-item" href="quem-somos.php">Quem somos</a>
                                                     </li>
                                                     <li class="dropdown">
-                                                        <a class="dropdown-item" href="areas-de-atuacao.php">
+                                                        <a class="dropdown-item dropdown-toggle" href="areas-de-atuacao.php">
                                                             Áreas de Atuação
                                                         </a>
                                                         <ul class="dropdown-menu">
@@ -91,7 +91,7 @@
                                                     </li>
 
                                                     <li class="dropdown">
-                                                        <a class="dropdown-item" href="https://blog.diasepaimadvogados.com.br">
+                                                        <a class="dropdown-item dropdown-toggle" href="https://blog.diasepaimadvogados.com.br">
                                                             Blog
                                                         </a>
                                                         <ul class="dropdown-menu">
