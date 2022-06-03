@@ -4486,7 +4486,7 @@ html.boxed .nav-secondary.sticky-active {
 
 .parallax-disabled .parallax-background {
 	background-attachment: scroll !important;
-	background-position: 50% 50% !important;
+	background-position: 75% 50% !important;
 }
 
 .parallax-background + .container {
