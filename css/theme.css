@@ -9,7 +9,13 @@ Theme Version:	9.5.0
 	}
 }
 
+li{
+list-style:none ;
+}
 
+ ul {
+    padding-left: 0.1rem;
+}
 
 @font-face {
   font-family: 'Poppins';

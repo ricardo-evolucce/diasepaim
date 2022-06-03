@@ -33,7 +33,7 @@ a:active {
 
 html .text-color-primary,
 html .text-primary {
-	color: #91201f !important;
+	color:#cbb242 !important;
 }
 
 html .text-color-hover-primary:hover,
@@ -540,7 +540,7 @@ html .bg-color-hover-before-quaternary:before:hover {
 
 html .bg-color-dark,
 html .bg-dark {
-	background-color: rgb(33, 37, 41,.8) !important;
+	background-color: rgb(33 37 41 / 93%) !important;
 }
 
 html .bg-color-hover-dark:hover,
@@ -4477,7 +4477,7 @@ html[dir="rtl"] #header .tip-light:before {
 	}
 
 	#header .header-nav.header-nav-links nav > ul:not(:hover) > li > a.active {
-		color: #c5a220;
+		color: #cbb242;
 	}
 
 	#header .header-nav.header-nav-links.header-nav-links-vertical-slide nav ul li.dropdown .dropdown-menu::-webkit-scrollbar-thumb {
